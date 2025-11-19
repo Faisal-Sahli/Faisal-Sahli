@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faisal Al-Sahli
+# 👋 Hi, I'm Faisal Sahli
 
 ## 💼 Backend Developer | ASP.NET Core Specialist
 
